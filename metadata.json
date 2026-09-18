@@ -1,0 +1,6 @@
+{
+  "name": "Cobranza Semanal",
+  "description": "Seguimiento de pagos semanales, telemercadeo de cobros con registro de llamadas y sincronización en tiempo real con Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
